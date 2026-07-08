@@ -16,6 +16,14 @@
             ],
             "image": "https://img.icons8.com/color/96/tv.png"
         },
+         {
+        "title": "New Movies",
+        "image": "",
+        "provider": "webview",
+        "arguments": [
+            "https://tamilconfigtamilmoviesanshob.pages.dev/"
+        ]
+    },
         {
             "title": "Newspapers",
             "provider": "overview",
