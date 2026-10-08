@@ -289,22 +289,22 @@
         "ironsource_app_key": "85460dcd",
         "ironsource_banner_placement_name": "DefaultBanner",
         "ironsource_interstitial_placement_name": "DefaultInterstitial",
-        "interstitial_ad_interval_on_drawer_menu": 3,
-        "interstitial_ad_interval_on_web_page_link": 5,
+        "interstitial_ad_interval_on_drawer_menu": 8,
+        "interstitial_ad_interval_on_web_page_link": 0,
         "native_ad_style_drawer_menu": "medium",
         "native_ad_style_exit_dialog": "medium",
         "native_ad_style_product_list": "medium",
-        "native_ad_index": 4,
+        "native_ad_index": 8,
         "interstitial_ad_on_list_item_click": true,
-        "interstitial_ad_interval_on_list_item_click": 3,
+        "interstitial_ad_interval_on_list_item_click": 8,
         "placement": {
             "banner_home": true,
             "interstitial_drawer_menu": true,
-            "interstitial_web_page_link": true,
-            "native_drawer_menu": true,
-            "native_exit_dialog": true,
+            "interstitial_web_page_link": false,
+            "native_drawer_menu": false,
+            "native_exit_dialog": false,
             "app_open_ad_on_start": true,
-            "app_open_ad_on_resume": true
+            "app_open_ad_on_resume": false
         }
     }
 }
